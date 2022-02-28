@@ -1,0 +1,101 @@
+id: P0E9C7C33
+initial_creation_type: input
+source_metadata:
+  title: Words of the Buddha
+  language: it
+  description: 'A selection of works by the Buddha himself, many of which feature
+    in the Kangyur (bka'' ''gyur), the Tibetan canonical collection of the Buddha''s
+    Word:'
+  volume:
+    9e882c7dfbda46c786d280c73d3eb38a:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      parent: Auspiciousness
+    a205c4f5d1cd47c2b489cb3110c6999f:
+      title: The Dhāraṇī of Amitāyus
+      parent: Dhāraṇī
+    df0ed87548eb482691a3f706071eba7b:
+      title: The Dhāraṇī of Glorious Vajraṇakhī
+      parent: Dhāraṇī
+    1903628fdd184430989ad9a2e7bc40e3:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      parent: Dhāraṇī
+    5e6c20351b4d4cd18d95723d29bb4c59:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      parent: Dhāraṇī
+    0b9ae195f119485bb45575862c57ab49:
+      title: The Noble Essence of Dependent Origination
+      parent: Dhāraṇī
+    dde779d620734a3a8e9892da348b3196:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      parent: Dhāraṇī
+    6ff8093de36f48deb4089bfac88b08d8:
+      title: The Noble Mārīcī Dhāraṇī
+      parent: Dhāraṇī
+    61f6fb979b6047428a9e864d0ac28010:
+      title: Vajravidāraṇa Dhāraṇī (Nyingma Version)
+      parent: Dhāraṇī
+    99056a6e4e874ee985d95663e9fe410d:
+      title: Prayer for the Future of the Dharma
+      parent: Prayers
+    8c423b4d0ae547898dcae99dbb756a8f:
+      title: 'The Clarifying Light: A Prophecy of the Future'
+      parent: Prophecy
+    0adfd568769d4fa497092cac0b9d06f3:
+      title: The Song of the Vajra
+      parent: Songs
+    6a1fae76412f4b0f93ffd1a8f6590edf:
+      title: Maitreya's Aspiration
+      parent: Sūtra
+    6feeff0e940c4ab8a592d72c5dc36b66:
+      title: The Bodhisattva’s Confession of Downfalls (Nyingma Version)
+      parent: Sūtra
+    e1642fe640d54ac88b457ad39110fa68:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      parent: Sūtra
+    896c0caf3c69496cb8a4c2828b5caae6:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      parent: Sūtra
+    e92ec4a3d9f24430a2983dfd92ce49e3:
+      title: The Noble Mahāyāna Sūtra entitled The Wisdom of the Hour of Death
+      parent: Sūtra
+    e08ebdf2bd8e43adba18186903e05504:
+      title: The Noble Sūtra Teaching the Eleven Perceptions
+      parent: Sūtra
+    b7ee45e18f5f49b99d0d880e9c52234c:
+      title: The Noble Sūtra of Recalling the Three Jewels
+      parent: Sūtra
+    9c713ca254c5473da9f9686266ad5658:
+      title: The Noble Sūtra of the Teaching on the Four Factors
+      parent: Sūtra
+    f4f0a53c44874df9999a7457f40e3bcf:
+      title: The Perfection of Wisdom, Mother of All Tathāgatas, ‘In One Syllable’
+      parent: Sūtra
+    03b3b87f924a4c2c92954c1efd8db1d1:
+      title: The Sūtra of Boundless Life and Wisdom
+      parent: Sūtra
+    134d7762bcde401a83012ab7bb3516b1:
+      title: A Section of the Vajrakīla Root Tantra
+      parent: Tantra
+    6fdc0e74479041338565aa1366a01a44:
+      title: Daily Confession (from the Vajrapañjara Tantra)
+      parent: Tantra
+    82fc0951ce5b4681806960d651387ca7:
+      title: The Lament of Rudra
+      parent: Tantra
+    516d178ef6d443dcafb13d8ce8e83e4c:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      parent: Tantra
+    5e8887c16fa343da8e4e60b55ab6b4ed:
+      title: The Twenty-Eight Commitments
+      parent: Tantra
+    f21c359fe1cd475ebec311f8c40a1de1:
+      title: The Ultimate Inexpressible Confession (Yeshe Kuchokma)
+      parent: Tantra
+    93a3cc22fc7f4460926891248575f126:
+      title: Verses of Confession 'Düsum Deshekma'
+      parent: Tantra
+created_at: '2022-03-01T02:07:32.763919'
+last_modified_at: '2022-03-01T02:07:32.763921'
